@@ -16,7 +16,7 @@
   <br />
   💬 Ask me about React, Next.js, and Node.js
   <br />
-  📫 How to reach me: <a href="https://instagram.com/nikunj._.variya">@nikunj._.variya</a>
+  📫 How to reach me: <a href="https://instagram.com/nikunj._.variya">Nikunj Variya</a>
 </p>
 
 <p align="center">
